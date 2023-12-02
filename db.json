@@ -1,0 +1,52 @@
+[
+    {  
+        "id":1,
+        "Question ":"What is the name of your company",
+        "answer":"company1 is a very famous car selling company"
+
+    },
+
+    {
+        "id":2,
+        "Question":"What is the address of your company",
+        "answer":"company1 is a very famous car selling company"
+    },
+
+    {
+        "id":3,
+        "Question ":"Give a brief description of your company",
+        "answer":"company1 is a very famous car selling company"
+    },
+    {
+        "id": 4,
+        "question": "Upload your company logo",
+        "answer": "path/to/logo.png"
+    },
+    {
+        "id": 5,
+        "question": "Provide a link to your website",
+        "answer": "https://www.company1.com"
+    },
+    {
+        "id": 6,
+        "question": "Are you a french company ? ",
+        "answerOptions": ["YES", "NO"],
+        "answer": "YES"
+    },
+    {
+        "id": 7,
+        "question": "Select the cybersecurity services you are interested in",
+        "answerOptions": [
+            "GDPR Compliance",
+            "Security Consulting",
+            "Penetration Testing",
+            "Managed Security Services",
+            "Incident Response",
+            "Blockchain Security",
+            "Cloud Security",
+            "Artificial Intelligence (AI) in Security",
+            "Cybersecurity Training"
+        ],
+        "answer": ["GDPR Compliance", "Penetration Testing", "Incident Response"]
+    }
+]
