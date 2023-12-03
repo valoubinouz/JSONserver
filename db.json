@@ -1,36 +1,36 @@
 {
-    "questions": [
-        {
-            "id": 1,
-            "title": "What is the name of your company",
-            "answers": ","
-        },
-        {
-            "id": 2,
-            "title": "What is the address of your company",
-            "answers": ","
-        },
-        {
-            "id": 3,
-            "title": "Give a brief description of your company",
-            "answers": ","
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "Company1",
-        "companyId": 1,
-        "userId": 1
+   "name": "Company1",
+    "companyId": 1,
+    "userId": 1,
+   "questions": [
+    
+    {
+      "id": 1,
+      "title": "What is the name of your company",
+      "answers": ","
+    },
+    {
+      "id": 2,
+      "title": "What is the address of your company",
+      "answers": ","
+    },
+    {
+      "id": 3,
+      "title": "Give a brief description of your company",
+      "answers": ","
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+  
 }
