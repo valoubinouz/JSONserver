@@ -10,7 +10,7 @@
     ],
     "profile": {
       "name": "Company1",
-      "companyId":1
+      "companyId":1,
       "userId":1
     }
   }
